@@ -53,23 +53,23 @@ AI technologies offer promising avenues for identifying and accommodating the sp
 In the proposed architecture for an AI-driven multi-agent e-learning environment, the model integrates a suite of six specialized agent crews, each with distinct yet interrelated functionalities designed to facilitate a comprehensive educational experience. This section elucidates the specific roles and mechanisms through which these agents contribute to the learning ecosystem. Each agent crew operates within a specialized domain but is designed to communicate and cooperate with other crews, thereby forming an integrated network that underpins an adaptive, responsive, and personalized learning environment.  
 
 
-	## Maestro Agent Crew:
+# Maestro Agent Crew:
  Serving as the orchestral conductor, the Maestro Agent Crew synchronizes the activities of all other agent crews. It ensures cohesive operation by managing dependencies and workflows, thus maintaining the system's integrity and ensuring that educational objectives are met in a timely and efficient manner.
 	
-## Learning Plan Agent Crew:
+# Learning Plan Agent Crew:
 Tasked with the construction of structured learning plans, this crew generates documents in .docx format, which outline the curriculum and pedagogical strategies tailored to meet the educational goals. This includes defining the scope and sequence of course material, aligning learning outcomes with assessments, and personalizing learning paths for individual learners or groups.
 	
-	## Content Crafter Agent Crew:
+# Content Crafter Agent Crew:
  This crew is the artisan of educational content, responsible for crafting and presenting learning materials in a variety of formats. By generating text, audio, and video content, it accommodates diverse learning preferences and modalities, thus enhancing accessibility and engagement.
 	    
 	
-	##Topic Creator Agent Crew:
+# Topic Creator Agent Crew:
  This crew translates the structured learning plans into executable modules within a learning management system (LMS), such as Moodle. Each module or 'topic' is designed to encompass a coherent chunk of knowledge, including learning resources, activities, and assessments, thereby facilitating modular and flexible learning experiences.
 	
-	##Evaluation Agent Crew: 
+# Evaluation Agent Crew: 
 Specialized in the design and implementation of evaluation strategies, this crew operationalizes the assessment of learning within Moodle. It develops and manages various forms of assessments, from quizzes to assignments and peer evaluations, to ascertain the achievement of learning objectives and inform instructional decisions.
 	
-	##Professor Twin Agent Crew:
+# Professor Twin Agent Crew:
  Embodying the persona of an instructor, this agent crew provides the critical human-like element within the AI education framework. It evaluates student personalities and monitors their progress, offering personalized feedback and adaptive learning trails. Furthermore, it acts as an omnipresent communication conduit, enabling students to engage in dialogue around the clock for inquiries related to the subject matter.
 
 ### Implementation & Evaluation    
