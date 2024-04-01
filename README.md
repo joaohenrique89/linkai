@@ -1,11 +1,11 @@
-### LinkAI
+# LinkAI
 ## A Universal Design for Learning Multi-Agent Artificial Intelligence Model
 
 
-### Goal: 
+## Goal: 
 With a single prompt, create an entire learning plan and class on moodle for any content from any discipline, considering the principal aspects of Universal Design for Learning. 
 
-### Specific Goal: 
+## Specific Goal: 
 1) create an leaning plan with the specific structure in .docx
 2) create the classes material in different formats, such as, text, audio, video, VR, AR, etc
 3) create each class as a topic on moodle and populate the topic with material created  
@@ -13,10 +13,10 @@ With a single prompt, create an entire learning plan and class on moodle for any
 5) create an professor avatar chatbot in moodle ( though gpt-assistant), so students can chat with for topic-related questions
 6) avaluate the student personality and monitor their progress in the course, providing personalized feedback and learning paths
 
-### Abstract 
+# Abstract 
 The fusion of artificial intelligence (AI) and education heralds a transformative era in how instructional content is delivered, tailored, and experienced. At the vanguard of this evolution is the integration of Universal Design for Learning (UDL) principles with the capabilities of multi-agent AI systems. This paper introduces a pioneering model that encapsulates this integration: A Universal Design for Learning Multi-Agent Artificial Intelligence Model. The ambition of this model is profound—to autonomously generate comprehensive learning plans and courses within the Moodle Learning Management System (LMS) for any subject matter across diverse disciplines, ensuring adherence to the core tenets of UDL.
 
-### Introduction
+# Introduction
 The concept of Universal Design for Learning (UDL) originates from the broader movement of Universal Design in architecture and product design, which advocates for creating environments and tools that are accessible to as wide a range of people as possible, including those with disabilities. This principle has been adapted into the educational landscape as UDL, a framework aimed at improving and optimizing teaching and learning for all people based on scientific insights into how humans learn (CAST, 2018). UDL emphasizes the provision of multiple means of engagement, representation, and action and expression to address the diverse needs of learners (Meyer, Rose, & Gordon, 2014). 
 
 The recent advancements in AI, particularly in the development and application of language models (LMs), offer unprecedented opportunities to tailor educational content to meet these diverse learning needs. The seminal work "Attention Is All You Need" (Vaswani et al., 2017) and subsequent developments in transformer-based models have revolutionized the potential of AI to process and generate human-like text, enabling AI systems to perform complex tasks, including creating educational content that could pass standardized exams in fields like law and medicine (Brown et al., 2020; Henderson et al., 2021). 
@@ -27,7 +27,7 @@ Such a model not only represents a leap forward in the application of AI in educ
 
 
 
-### Background
+# Background
 Recent advancements in Artificial Intelligence (AI) have significantly transformed educational technologies, including Learning Management Systems (LMSs), chatbots, and intelligent agents. AI in education, broadly encompassing technologies like machine learning and natural language processing, offers personalized learning experiences and enhances student engagement through adaptive learning environments (Zawacki-Richter et al., 2019; Chu et al., 2022). LMSs integrated with AI capabilities facilitate a more tailored educational journey for students, analyzing their interactions and performance to provide customized content and learning paths. Chatbots, like Ada and Replika, have been introduced as interactive platforms providing immediate feedback and support, addressing students' queries and fostering a more engaged learning environment (Kabiljo et al., 2020; Pentina et al., 2023). 
 
 Intelligent agents, including agent swarms or crews, represent a more complex form of AI where multiple agents work collaboratively or competitively within educational scenarios to optimize learning outcomes, suggesting a move towards more dynamic, intelligent, and interactive educational ecosystems (Educational Technology Journal, 2023).
@@ -49,35 +49,33 @@ AI technologies offer promising avenues for identifying and accommodating the sp
 
 
 
-### The Model Design
+# The Model Design
 In the proposed architecture for an AI-driven multi-agent e-learning environment, the model integrates a suite of six specialized agent crews, each with distinct yet interrelated functionalities designed to facilitate a comprehensive educational experience. This section elucidates the specific roles and mechanisms through which these agents contribute to the learning ecosystem. Each agent crew operates within a specialized domain but is designed to communicate and cooperate with other crews, thereby forming an integrated network that underpins an adaptive, responsive, and personalized learning environment.  
 
 
-# Maestro Agent Crew:
+### Maestro Agent Crew:
  Serving as the orchestral conductor, the Maestro Agent Crew synchronizes the activities of all other agent crews. It ensures cohesive operation by managing dependencies and workflows, thus maintaining the system's integrity and ensuring that educational objectives are met in a timely and efficient manner.
 	
-# Learning Plan Agent Crew:
+### Learning Plan Agent Crew:
 Tasked with the construction of structured learning plans, this crew generates documents in .docx format, which outline the curriculum and pedagogical strategies tailored to meet the educational goals. This includes defining the scope and sequence of course material, aligning learning outcomes with assessments, and personalizing learning paths for individual learners or groups.
 	
-# Content Crafter Agent Crew:
+### Content Crafter Agent Crew:
  This crew is the artisan of educational content, responsible for crafting and presenting learning materials in a variety of formats. By generating text, audio, and video content, it accommodates diverse learning preferences and modalities, thus enhancing accessibility and engagement.
 	    
 	
-# Topic Creator Agent Crew:
+### Topic Creator Agent Crew:
  This crew translates the structured learning plans into executable modules within a learning management system (LMS), such as Moodle. Each module or 'topic' is designed to encompass a coherent chunk of knowledge, including learning resources, activities, and assessments, thereby facilitating modular and flexible learning experiences.
 	
-# Evaluation Agent Crew: 
+### Evaluation Agent Crew: 
 Specialized in the design and implementation of evaluation strategies, this crew operationalizes the assessment of learning within Moodle. It develops and manages various forms of assessments, from quizzes to assignments and peer evaluations, to ascertain the achievement of learning objectives and inform instructional decisions.
 	
-# Professor Twin Agent Crew:
+### Professor Twin Agent Crew:
  Embodying the persona of an instructor, this agent crew provides the critical human-like element within the AI education framework. It evaluates student personalities and monitors their progress, offering personalized feedback and adaptive learning trails. Furthermore, it acts as an omnipresent communication conduit, enabling students to engage in dialogue around the clock for inquiries related to the subject matter.
 
-### Implementation & Evaluation    
+# Implementation & Evaluation    
 
 The implementation and evaluation of the model is under progress.  The subject of AI has been having significand advances very fast, creating new and more effetive ways of doing things in a surprising fast manner. Although technology improves our ability to perform better and to be more productive, it has a learning curve and its contant changes make it hard to stay on top of the best methods. Agents and multi-agent systems are the next step to improve AI systems. Frameworks, such as Microsoft Autogen, Chatdev, and more importantly Crewai, that take full advange of llms,  to create agent teams  are fairly recent and are still under developing suffering breaking changes on every deploy.  
-
-As a proof of concenpt, a professor twin automation has been implemented already and will be  tested by a few collegue through whatsapp to answer questions related to Universal Design for Learning.  
-
+ 
 
 
  ### References
