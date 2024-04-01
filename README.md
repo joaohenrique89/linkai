@@ -98,13 +98,8 @@ Specialized in the design and implementation of evaluation strategies, this crew
 ### Implementation & Evaluation    
 
 The implementation and evaluation of the model is under progress.  The subject of AI has been having significand advances very fast, creating new and more effetive ways of doing things in a surprising fast manner. Although technology improves our ability to perform better and to be more productive, it has a learning curve and its contant changes make it hard to stay on top of the best methods. Agents and multi-agent systems are the next step to improve AI systems. Frameworks, such as Microsoft Autogen, Chatdev, and more importantly Crewai, that take full advange of llms,  to create agent teams  are fairly recent and are still under developing suffering breaking changes on every deploy.  
-
-As a proof of concenpt, a professor twin automation has been implemented already and will be  tested by a few collegue through whatsapp to answer questions related to Universal Design for Learning.  
-
-
-###  Challenges and Next steps: 
-The work is under progress. The documented challenges of the last semester have  impacted on my well-being and therefore on the project execution as well. The planning is to implement and test everything as soons as possible and to submit the paper to a  conference or journal, such as, the artificial intelligence in education or expert system and applications, where I have published before and have the higher A qualis in Capes. 
-	
+ 
+ 
 	   
 
  ### References
