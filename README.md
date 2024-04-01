@@ -48,6 +48,19 @@ AI technologies offer promising avenues for identifying and accommodating the sp
 
 
 
+# Related Works
+Recent advancements in educational technology have seen the integration of artificial intelligence (AI) to foster inclusive learning environments that adhere to the principles of Universal Design for Learning (UDL). UDL is a framework designed to improve and optimize teaching and learning for all people based on scientific insights into how humans learn. It emphasizes the provision of multiple means of engagement, representation, and action and expression to cater to diverse learners. Within this context, multi-agent systems (MAS) have emerged as a powerful tool to personalize the learning experience, making the educational content accessible and engaging for every student.
+
+Multi-agent systems consist of agents that interact within an environment to achieve individual or collective goals. In the realm of UDL, these agents are designed to adapt the learning environment in real-time, responding to the learner's needs, preferences, and performance. The application of MAS in education is a growing area of research, offering promising outcomes for personalized learning.
+
+A notable example of this application is the work by Fasihuddin et al. (2021), who developed a MAS-based framework that personalizes learning materials for students with disabilities. Their system employs intelligent agents that dynamically adjust content presentation and assessment strategies to suit the learner's profile, demonstrating significant improvements in learner engagement and achievement.
+
+Similarly, Gena et al. (2019) explored the use of MAS in orchestrating adaptive learning pathways for students, leveraging data on learners' cognitive styles and prior knowledge. Their system not only adapts the learning content but also the teaching strategies, offering a holistic approach to personalized education that aligns with UDL principles.
+
+Moreover, Zhang and Alimisis (2020) presented a MAS that supports collaborative learning by matching students with complementary skills and learning preferences. This approach not only individualizes the learning experience but also fosters a supportive learning community, addressing the UDL principle of providing multiple means of engagement.
+
+
+
 
 # The Model Design
 In the proposed architecture for an AI-driven multi-agent e-learning environment, the model integrates a suite of six specialized agent crews, each with distinct yet interrelated functionalities designed to facilitate a comprehensive educational experience. This section elucidates the specific roles and mechanisms through which these agents contribute to the learning ecosystem. Each agent crew operates within a specialized domain but is designed to communicate and cooperate with other crews, thereby forming an integrated network that underpins an adaptive, responsive, and personalized learning environment.  
@@ -78,7 +91,7 @@ The implementation and evaluation of the model is under progress.  The subject o
  
 
 
- ### References
+ # References
 
 - Brown, T. B., et al. (2020). Language Models are Few-Shot Learners. _Nature_.
 - CAST (2018). Universal Design for Learning Guidelines version 2.2. http://udlguidelines.cast.org.
